@@ -6,4 +6,4 @@ mushrooms
 carrots
 tomatoes
 philly cheesesteaks
-Hamburgers
+hamburgers
